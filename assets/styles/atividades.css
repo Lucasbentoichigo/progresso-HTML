@@ -4,10 +4,25 @@
     box-sizing: 0%;
 }
 
-.flex-container {
-    width: 23%;
-    height: 170px;
-    background-color: blue;
-    margin: 0 auto 20px;
+.quadrado {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
     align-items: center;
-    margin-top: 2%;}
+    gap: 20px;
+}
+
+    .quadrado1{
+        width: 150px;
+        height: 150px;
+        background-color: greenyellow;
+    }
+
+    .quadrado2{
+        width: 150px;
+        height: 150px;
+        background-color: blue;
+       }
+
+        
+    
