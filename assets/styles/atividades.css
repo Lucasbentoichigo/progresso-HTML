@@ -1,0 +1,13 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+
+.flex-container {
+    width: 23%;
+    height: 170px;
+    background-color: blue;
+    margin: 0 auto 20px;
+    align-items: center;
+    margin-top: 2%;}
